@@ -5,7 +5,7 @@
 	<groupId>com.testdouble</groupId>
 	<artifactId>game-of-life</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>game-of-life</name>
 	<url>https://github.com/searls/game-of-life-java-example</url>
